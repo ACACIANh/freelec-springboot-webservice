@@ -1,6 +1,6 @@
 spring:
   profiles:
-    include: ouath
+    include: oauth
   h2:
     console:
       enabled: true
